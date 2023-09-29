@@ -1,4 +1,4 @@
-import swiper from 'swiper/swiper-bundle';
+import Swiper from 'swiper/swiper-bundle';
 import 'swiper/swiper-bundle.css';
 import { heroRefs } from './hero';
 
